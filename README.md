@@ -4,7 +4,7 @@ Todo list focus to __Next Todo__
 
 ## Usage
 
-- Copy __index.html__
+- Copy
 - Modify
 
-See [demo](https://jlongyam.github.io/next/) page.
+[MIT](LICENSE)

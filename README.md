@@ -1,2 +1,3 @@
-# next
-Todo list focus to next Todo
+# Next
+
+Todo list focus to __Next Todo__
